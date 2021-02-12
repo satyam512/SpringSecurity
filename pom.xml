@@ -8,7 +8,7 @@
 		<version>2.3.3.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.darkKnight</groupId>
+	<groupId>com.learningSpringSecurity</groupId>
 	<artifactId>rback-and-spring-security</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>rback-and-spring-security</name>
